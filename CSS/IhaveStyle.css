@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(107, 219, 105);
+}
+
+p {
+    color: rgb(4, 44, 48);
+    font :sans-serif;
+}
+
+header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    color: bisque;
+}
+
+form {
+    color: blueviolet;
+    font: Arial;
+}
+
+table {
+    color: brown;
+    font: Verdana;
+}
+
+table header {
+    font-style: bold;
+}
+
+table data {
+    font-style: italic;
+}

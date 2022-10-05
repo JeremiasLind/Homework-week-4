@@ -1,0 +1,11 @@
+<body>
+    <svg>   
+            <circle id="ear" cx="75" cy="55" r="16" stroke = "black" fill = "black"/> 
+            <circle id="ear" cx="115" cy="55" r="16" stroke = "black" fill = "black"/>  
+            <circle id="MyCircle" cx="100" cy="100" r="50" stroke = "green" fill = "cyan"/>
+            <circle id="eye1" cx="100" cy="90" r="10" stroke = "white" fill = "blue"/>
+            <circle id="eye2" cx="125" cy="90" r="10" stroke = "white" fill = "blue"/>
+            <circle id="snout" cx="115" cy="110" r="16" stroke = "black" fill = "cyan"/>
+            <circle id="sniffer" cx="115" cy="105" r="8" stroke = "black" fill = "gray"/>
+    </svg>
+ </body>
